@@ -1,0 +1,6 @@
+Karolis,IV,5
+Karolis,IV,10
+Karolis,IV,7
+Karolis,IV,8
+Karolis,IV,4
+Karolis,IV,10
